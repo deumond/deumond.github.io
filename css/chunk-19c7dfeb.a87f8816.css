@@ -1,0 +1,1 @@
+div#total{width:90%}div#img{width:20%;height:autoS}#intro_pc{visibility:hidden;height:0}#skill>*{text-align:left}#skill>*>span{font-weight:700}#edu>*,#work>*{text-align:left}@media only screen and (min-width:600px){div#total{width:60%}#img{width:100px;height:140px}#intro_pc{visibility:visible;height:auto}#intro_m{visibility:hidden;height:0}}
